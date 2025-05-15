@@ -3,7 +3,7 @@
             /                                                \
            |    _________________________________________     |
            |   |                                         |    |
-           |   |  C:\> ana@anas-pc:~$ cat about_me.txt   |    |
+           |   |  ana@anas-pc:~$ cat about_me.txt        |    |
            |   |                                         |    |
            |   |  Hello! I'm Ana Sá Oliveira, a Software |    |
            |   |  Engineering student at the University  |    |
