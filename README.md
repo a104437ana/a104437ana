@@ -8,5 +8,6 @@
   </p>
 </div>
 <div align="center">
+<p>A place for projects and growth...</p>
 <p>🩷</p>
 </div>
