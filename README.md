@@ -1,1 +1,1 @@
-![](anaso.gif)
+![](a.gif)
