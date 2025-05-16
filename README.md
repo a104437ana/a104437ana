@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a1e9e937-b5c0-4466-a66f-dc0fa5e05d6e)
+<img src="https://github.com/a104437ana/a104437ana/anasao.gif" style="max-width: 100%; height: auto;" />
 
 ```
              ________________________________________________
