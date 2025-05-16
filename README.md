@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="anaso.gif" alt="Descrição da imagem" />
+  <img src="ana.gif" alt="Descrição da imagem" />
 </div>
