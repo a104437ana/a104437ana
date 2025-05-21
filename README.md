@@ -1,6 +1,6 @@
 <div align="center">
 <p>🩷</p>
-<p>Hello! I'm Ana Sá Oliveira and this is my GitHub...</p>
+<h3>Hello! I'm Ana Sá Oliveira and this is my GitHub...</h3>
 </div>
 <div align="center">
   <p>
@@ -8,6 +8,6 @@
   </p>
 </div>
 <div align="center">
-<p>A place for projects and growth...</p>
+<h3>A place for projects and growth...</h3>
 <p>🩷</p>
 </div>
