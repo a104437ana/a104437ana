@@ -6,5 +6,6 @@
     <img src="anaso.gif" alt="Descrição da imagem" />
   </p>
 <h3>A place for projects and growth...</h3>
+<h3>Bye!</h3>
 <p>🩷</p>
 </div>
