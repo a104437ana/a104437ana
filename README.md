@@ -16,8 +16,8 @@
 | 2nd | 2nd | [BD](https://github.com/a104437ana/BD) | 19/20 |
 | 2nd | 2nd | [IO](https://github.com/a104437ana/IO) | 17/20 |
 | 2nd | 2nd | [POO](https://github.com/a104437ana/POO) | 18/20 |
-| 2nd | 2nd | [RC](https://github.com/a104437ana/RC) | 19.1/20 |
-| 2nd | 2nd | [SO](https://github.com/a104437ana/SO) | 16.83/20 |
+| 2nd | 2nd | [RC](https://github.com/a104437ana/RC) | 16.83/20 |
+| 2nd | 2nd | [SO](https://github.com/a104437ana/SO) | 19.1/20 |
 | 3rd | 1st | [CP](https://github.com/a104437ana/CP) | 19/20 |
 | 3rd | 1st | [CC](https://github.com/a104437ana/CC) | 14.1/20 |
 | 3rd | 1st | [DSS](https://github.com/a104437ana/DSS) | 18/20 |
