@@ -43,7 +43,10 @@
 | 3rd | 2nd | [CG](https://github.com/a104437ana/CG) | 20/20 |
 </details>
 <h3>🌷 Personal projects:</h3>
-...
+<details>
+  <summary>Nothing yet</summary>
+  I hope to have something here in the near future :)
+</details>
 <h3>Bye!</h3>
 <p>🩷</p>
 </div>
