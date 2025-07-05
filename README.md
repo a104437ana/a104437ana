@@ -1,4 +1,7 @@
 <div align="center">
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=FF69B4&center=true&vCenter=true&width=700&height=30&duration=3000&pause=1000&lines=Hello+World;Hola+Mundo;Bonjour+le+monde;Ciao+Mondo;Hallo+Welt;こんにちは世界;안녕하세요+세계;Привет+мир;你好，世界;مرحبا+بالعالم" alt="Hello World in multiple languages" />
+</p>
 <p>🌍</p>
 <h3>Hello world!</h3>
 <h3>I'm Ana Sá Oliveira and this is my GitHub...</h3>
