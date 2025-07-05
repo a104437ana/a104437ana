@@ -48,5 +48,5 @@
   I hope to have something here in the near future :)
 </details>
 <h3>Bye!</h3>
-<p>🩷</p>
+<p>🤍</p>
 </div>
