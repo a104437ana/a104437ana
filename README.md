@@ -53,7 +53,14 @@
 </details>
 <details>
   <summary>MEI - Master's degree in Software Engineering</summary>
-  I hope to have something here in the near future :)
+  <details>
+  <summary>4th year</summary>
+    ...
+</details>
+  <details>
+  <summary>5th year</summary>
+    ...
+</details>
 </details>
 <h3>🌷 Personal projects:</h3>
 <details>
