@@ -11,6 +11,8 @@
 <h3>A place for projects and growth...</h3>
 <h3>🎓 College projects:</h3>
 <details>
+  <summary>LEI - Bachelor's degree in Software Engineering</summary>
+<details>
   <summary>1st year</summary>
 
 | 🗓️ Year | 🗓️ Semester | 🗂️ Project | ✅ Grade |
@@ -47,6 +49,11 @@
 | 3rd | 2nd | [ADI](https://github.com/a104437ana/ADI) | 20/20 |
 | 3rd | 2nd | [SSI](https://github.com/a104437ana/SSI) | -/20 |
 | 3rd | 2nd | [IPM](https://github.com/a104437ana/IPM) | 19/20 |
+</details>
+</details>
+<details>
+  <summary>MEI - Master's degree in Software Engineering</summary>
+  I hope to have something here in the near future :)
 </details>
 <h3>🌷 Personal projects:</h3>
 <details>
