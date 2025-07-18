@@ -64,8 +64,11 @@
 </details>
 <h3>🌷 Personal projects:</h3>
 <details>
-  <summary>Nothing yet</summary>
-  I hope to have something here in the near future :)
+  <summary>Ongoing Projects</summary>
+
+| 🔍 Overview | 🗂️ Project |
+|:---------:|:---------:|
+| Personal site to showcase my work | [a104437ana.github.io](https://github.com/a104437ana/a104437ana.github.io) |
 </details>
 <h3>Bye!</h3>
 <p>❤️</p>
