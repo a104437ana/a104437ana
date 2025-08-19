@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=FF69B4&center=true&vCenter=true&width=300&height=30&duration=3000&pause=1000&lines=Hello+World;Olá+Mundo;Hola+Mundo;Bonjour+le+monde;Ciao+Mondo;Hallo+Welt;こんにちは世界;안녕하세요+세계;Привет+мир;你好，世界;مرحبا+بالعالم" alt="Hello World in multiple languages" style="max-width: 100%; height: auto;" />
 </p>
 <p>🌍</p>
-<h3>Hello world! <img src="waving_hand.gif" style="height: 1em;"/></h3>
+<h3>Hello world! <img src="waving_hand.gif" style="height: 1.5em;"/></h3>
 <h3>I'm <a href="https://a104437ana.github.io/">Ana Sá Oliveira</a> and this is my GitHub...</h3>
 <p>
   <img src="gif.gif"/>
