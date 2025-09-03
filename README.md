@@ -73,7 +73,7 @@
 
 | 🔍 Overview | 🗂️ Project |
 |:---------:|:---------:|
-| Personal site to showcase my work | [a104437ana.github.io](https://github.com/a104437ana/a104437ana.github.io) |
+| Portfolio Website | [a104437ana.github.io](https://github.com/a104437ana/a104437ana.github.io) |
 | Curriculum Vitae | [cv](https://github.com/a104437ana/cv) |
 </details>
 <h3>Bye!</h3>
