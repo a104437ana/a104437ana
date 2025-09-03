@@ -44,7 +44,7 @@
 | 3rd | 1st | [LI4](https://github.com/a104437ana/LI4) | 17/20 |
 | 3rd | 1st | [SD](https://github.com/a104437ana/SD) | 18.4/20 |
 | 3rd | 2nd | [PL](https://github.com/a104437ana/PL) | 18/20 |
-| 3rd | 2nd | [EW](https://github.com/a104437ana/EngWeb) | 17/20 |
+| 3rd | 2nd | [EngWeb](https://github.com/a104437ana/EngWeb) | 17/20 |
 | 3rd | 2nd | [CG](https://github.com/a104437ana/CG) | 20/20 |
 | 3rd | 2nd | [ADI](https://github.com/a104437ana/ADI) | 20/20 |
 | 3rd | 2nd | [SSI](https://github.com/a104437ana/SSI) | 16.85/20 |
@@ -69,6 +69,7 @@
 | 🔍 Overview | 🗂️ Project |
 |:---------:|:---------:|
 | Personal site to showcase my work | [a104437ana.github.io](https://github.com/a104437ana/a104437ana.github.io) |
+| Curriculum Vitae | [cv](https://github.com/a104437ana/cv) |
 </details>
 <h3>Bye!</h3>
 <p>❤️</p>
