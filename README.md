@@ -49,6 +49,11 @@
 | 3rd | 2nd | [ADI](https://github.com/a104437ana/ADI) | 20/20 |
 | 3rd | 2nd | [SSI](https://github.com/a104437ana/SSI) | 16.85/20 |
 | 3rd | 2nd | [IPM](https://github.com/a104437ana/IPM) | 19/20 |
+| 3rd | 2nd | [PL2025](https://github.com/a104437ana/PL2025) | 20/20 |
+| 3rd | 2nd | [EngWeb2025](https://github.com/a104437ana/EngWeb2025) | 20/20 |
+| 3rd | 2nd | [ENGWEB2025-Normal](https://github.com/a104437ana/ENGWEB2025-Normal) | 18.2/20 |
+| 3rd | 2nd | [EngWeb-Tutorial](https://github.com/a104437ana/EngWeb-Tutorial) | - |
+| 3rd | 2nd | [HACKATHON-BUGSBYTE-2025](https://github.com/a104437ana/HACKATHON-BUGSBYTE-2025) | - |
 </details>
 </details>
 <details>
