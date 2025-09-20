@@ -83,5 +83,4 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=a104437ana&label=Profile%20Views&color=ff69b4&style=flat" alt="a104437ana" />
 </p>
-────୨ৎ────
 </div>
