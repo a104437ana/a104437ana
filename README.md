@@ -4,7 +4,7 @@
 </p>
 <p>🌍</p>
 <h3>Hello world! <img src="waving_hand.gif" style="height: 1.5em;"/></h3>
-<h3>I'm <a href="https://a104437ana.github.io/">Ana Sá Oliveira</a> and this is my GitHub...</h3>
+<h3>I'm <a href="https://ana.is-a.dev/">Ana Sá Oliveira</a> and this is my GitHub...</h3>
 <p>
   <img src="gif.gif"/>
 </p>
