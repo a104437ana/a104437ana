@@ -69,13 +69,19 @@
 </details>
 <h3>🌷 Personal projects:</h3>
 <details>
+  <summary>Previous Projects</summary>
+
+| 🔍 Overview | 🗂️ Project |
+|:---------:|:---------:|
+| The Site of Answers | [the-site-of-answers](https://github.com/a104437ana/the-site-of-answers) |
+</details>
+<details>
   <summary>Ongoing Projects</summary>
 
 | 🔍 Overview | 🗂️ Project |
 |:---------:|:---------:|
 | Portfolio Website | [a104437ana.github.io](https://github.com/a104437ana/a104437ana.github.io) |
 | Curriculum Vitae | [cv](https://github.com/a104437ana/cv) |
-| The Site of Answers | [the-site-of-answers](https://github.com/a104437ana/the-site-of-answers) |
 | README | [a104437ana](https://github.com/a104437ana/a104437ana) |
 </details>
 <h3>Bye!</h3>
