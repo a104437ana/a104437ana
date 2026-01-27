@@ -60,7 +60,14 @@
   <summary>MEI - Master's degree in Software Engineering</summary>
   <details>
   <summary>4th year</summary>
-    ...
+    
+| 🗓️ Year | 🗓️ Semester | 🗂️ Project | ✅ Grade |
+|:---------:|:---------:|:---------:|:---------:|
+| 4th | 1st | [ASCN](https://github.com/a104437ana) | -/20 |
+| 4th | 1st | [RAS](https://github.com/a104437ana) | -/20 |
+| 4th | 1st | [CPar](https://github.com/a104437ana) | -/20 |
+| 4th | 1st | [ABD](https://github.com/a104437ana) | -/20 |
+| 4th | 1st | [CSI](https://github.com/a104437ana) | -/20 |
 </details>
   <details>
   <summary>5th year</summary>
