@@ -63,11 +63,11 @@
     
 | 🗓️ Year | 🗓️ Semester | 🗂️ Project | ✅ Grade |
 |:---------:|:---------:|:---------:|:---------:|
-| 4th | 1st | [ASCN](https://github.com/a104437ana) | -/20 |
-| 4th | 1st | [RAS](https://github.com/a104437ana) | -/20 |
-| 4th | 1st | [CPar](https://github.com/a104437ana) | -/20 |
-| 4th | 1st | [ABD](https://github.com/a104437ana) | -/20 |
-| 4th | 1st | [CSI](https://github.com/a104437ana) | -/20 |
+| 4th | 1st | [ASCN](https://github.com/a104437ana/ASCN) | -/20 |
+| 4th | 1st | [RAS](https://github.com/a104437ana/RAS) | -/20 |
+| 4th | 1st | [CPar](https://github.com/a104437ana/CPar) | -/20 |
+| 4th | 1st | [ABD](https://github.com/a104437ana/ABD) | -/20 |
+| 4th | 1st | [CSI](https://github.com/a104437ana/CSI) | -/20 |
 </details>
   <details>
   <summary>5th year</summary>
