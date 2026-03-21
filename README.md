@@ -8,7 +8,7 @@
 <p>
   <img src="gif.gif"/>
 </p>
-<h3>A place for projects and growth...</h3>
+<h3>A place for my projects and experiments...</h3>
 <h3>🎓 College projects:</h3>
 <details>
   <summary>LEI - Bachelor's degree in Software Engineering</summary>
