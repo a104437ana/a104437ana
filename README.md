@@ -89,7 +89,6 @@
 |:---------:|:---------:|
 | Portfolio Website | [a104437ana.github.io](https://github.com/a104437ana/a104437ana.github.io) |
 | Curriculum Vitae | [cv](https://github.com/a104437ana/cv) |
-| CLI calendar app | [ana](https://github.com/a104437ana/ana) |
 | README | [a104437ana](https://github.com/a104437ana/a104437ana) |
 </details>
 <h3>Bye!</h3>
