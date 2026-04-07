@@ -93,6 +93,9 @@
 | README | [a104437ana](https://github.com/a104437ana/a104437ana) |
 </details>
 <br>
+<img src="https://komarev.com/ghpvc/?username=a104437ana&label=Profile%20Views&color=ff69b4&style=flat" alt="a104437ana" />
+<br>
+<br>
 My GitHub contribution garden 🌸
 <br>
 <picture>
@@ -100,6 +103,4 @@ My GitHub contribution garden 🌸
   <source srcset="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=light" media="(prefers-color-scheme: light)" />
   <img src="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=light" width="1000" alt="sakura contributions" />
 </picture>
-<br>
-<img src="https://komarev.com/ghpvc/?username=a104437ana&label=Profile%20Views&color=ff69b4&style=flat" alt="a104437ana" />
 </div>
