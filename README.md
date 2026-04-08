@@ -78,19 +78,19 @@
 <details>
   <summary>Previous Projects</summary>
 
-| 🔍 Overview | 🗂️ Project |
-|:---------:|:---------:|
-| The Site of Answers | [the-site-of-answers](https://github.com/a104437ana/the-site-of-answers) |
+| 🔍 Overview | 🗂️ Project | 🌐 Website |
+|:---------:|:---------:|:---------:|
+| The Site of Answers | [the-site-of-answers](https://github.com/a104437ana/the-site-of-answers) | [the-site-of-answers.pages.dev](https://the-site-of-answers.pages.dev) |
 </details>
 <details>
   <summary>Ongoing Projects</summary>
 
-| 🔍 Overview | 🗂️ Project |
-|:---------:|:---------:|
-| sakura garden | [sakura-garden](https://github.com/a104437ana/sakura-garden) |
-| Portfolio Website | [a104437ana.github.io](https://github.com/a104437ana/a104437ana.github.io) |
-| Curriculum Vitae | [cv](https://github.com/a104437ana/cv) |
-| README | [a104437ana](https://github.com/a104437ana/a104437ana) |
+| 🔍 Overview | 🗂️ Project | 🌐 Website |
+|:---------:|:---------:|:---------:|
+| sakura garden | [sakura-garden](https://github.com/a104437ana/sakura-garden) | [sakura-garden.vercel.app](https://sakura-garden.vercel.app) |
+| Portfolio Website | [a104437ana.github.io](https://github.com/a104437ana/a104437ana.github.io) | [ana.is-a.dev](https://ana.is-a.dev) |
+| Curriculum Vitae | [cv](https://github.com/a104437ana/cv) | - |
+| README | [a104437ana](https://github.com/a104437ana/a104437ana) | - |
 </details>
 <br>
 My GitHub contribution garden 🌸
