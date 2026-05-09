@@ -101,5 +101,5 @@ My GitHub contribution garden 🌸
   <img src="https://raw.githubusercontent.com/a104437ana/a104437ana/output/sakura-garden.svg" alt="sakura garden" width="1000"/>
 </picture>
 <br>
-Want your own garden? → <a href="https://sakura-garden.vercel.app">start here</a>
+Want your own garden? → Visit the <a href="https://sakura-garden.vercel.app">website</a> or the <a href="https://github.com/a104437ana/sakura-garden">GitHub repository</a>
 </div>
