@@ -1,5 +1,5 @@
 <div align="center">
-<h3>Hello! <img src="waving_hand.gif" style="height: 1.1em;"/> I'm Ana Sá Oliveira</h3>
+<h3>Hello! 👋 I'm Ana Sá Oliveira</h3>
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯·𖥸·⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 <h3>I enjoy coding and building cool things <3 </h3>
 <p>
@@ -57,12 +57,12 @@
 </details>
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯·𖥸·⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 <h3>Check out my GitHub contribution garden</h3>
-❀ One day at a time ❀
+"What you do every day matters more than what you do once in a while"
 <picture>
   <source srcset="https://raw.githubusercontent.com/a104437ana/a104437ana/output/sakura-garden-dark.svg" media="(prefers-color-scheme: dark)" width="1000"/>
   <source srcset="https://raw.githubusercontent.com/a104437ana/a104437ana/output/sakura-garden.svg" media="(prefers-color-scheme: light)" width="1000"/>
   <img src="https://raw.githubusercontent.com/a104437ana/a104437ana/output/sakura-garden.svg" alt="sakura garden" width="1000"/>
 </picture>
 <br>
-Want your own garden? → Visit this <a href="https://sakura-garden.vercel.app">website</a> or this <a href="https://github.com/a104437ana/sakura-garden">GitHub repository</a>
+Want your own garden? → Visit this <a href="https://sakura-garden.vercel.app">website</a> or this <a href="https://github.com/a104437ana/sakura-garden">repository</a>
 </div>
