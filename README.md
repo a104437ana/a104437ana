@@ -1,5 +1,6 @@
 <div align="center">
-<h2>Hello! <img src="waving_hand.gif" style="height: 1.1em;"/> I'm Ana Sá Oliveira</h2>
+<h3>Hello! <img src="waving_hand.gif" style="height: 1.1em;"/> I'm Ana Sá Oliveira</h3>
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯·𖥸·⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 <h3>I enjoy coding and building cool things <3 </h3>
 <p>
   <img src="gif.gif"/>
@@ -9,33 +10,17 @@
 <h3>Check out my projects:</h3>
 <details>
 <summary>College projects</summary>
-<details>
-  <summary>LEI - Bachelor's degree in Software Engineering</summary>
-<details>
-  <summary>1st year</summary>
 
 | 🗓️ Year | 🗓️ Semester | 🗂️ Project | ✅ Grade |
 |:---------:|:---------:|:---------:|:---------:|
 | 1st | 1st | [LI1](https://github.com/a104437ana/LI1) | 16/20 |
 | 1st | 2nd | [LI2](https://github.com/a104437ana/LI2) | 18/20 |
-</details>
-<details>
-  <summary>2nd year</summary>
-
-| 🗓️ Year | 🗓️ Semester | 🗂️ Project | ✅ Grade |
-|:---------:|:---------:|:---------:|:---------:|
 | 2nd | 1st | [LI3](https://github.com/a104437ana/LI3) | 19/20 |
 | 2nd | 2nd | [BD](https://github.com/a104437ana/BD) | 19/20 |
 | 2nd | 2nd | [IO](https://github.com/a104437ana/IO) | 17/20 |
 | 2nd | 2nd | [POO](https://github.com/a104437ana/POO) | 18/20 |
 | 2nd | 2nd | [RC](https://github.com/a104437ana/RC) | 16.83/20 |
 | 2nd | 2nd | [SO](https://github.com/a104437ana/SO) | 19.1/20 |
-</details>
-<details>
-  <summary>3rd year</summary>
-
-| 🗓️ Year | 🗓️ Semester | 🗂️ Project | ✅ Grade |
-|:---------:|:---------:|:---------:|:---------:|
 | 3rd | 1st | [CP](https://github.com/a104437ana/CP) | 19/20 |
 | 3rd | 1st | [CC](https://github.com/a104437ana/CC) | 14.1/20 |
 | 3rd | 1st | [DSS](https://github.com/a104437ana/DSS) | 18/20 |
@@ -53,28 +38,12 @@
 | 3rd | 2nd | [ENGWEB2025-Normal](https://github.com/a104437ana/ENGWEB2025-Normal) | 18.2/20 |
 | 3rd | 2nd | [EngWeb-Tutorial](https://github.com/a104437ana/EngWeb-Tutorial) | - |
 | 3rd | 2nd | [HACKATHON-BUGSBYTE-2025](https://github.com/a104437ana/HACKATHON-BUGSBYTE-2025) | - |
-</details>
-</details>
-<details>
-  <summary>MEI - Master's degree in Software Engineering</summary>
-  <details>
-  <summary>4th year</summary>
-    
-| 🗓️ Year | 🗓️ Semester | 🗂️ Project | ✅ Grade |
-|:---------:|:---------:|:---------:|:---------:|
 | 4th | 1st | [ASCN](https://github.com/a104437ana/ASCN) | 20/20 |
 | 4th | 1st | [RAS](https://github.com/a104437ana/RAS) | 17.1/20 |
 | 4th | 1st | [CPar](https://github.com/a104437ana/CPar) | 17.98/20 |
 | 4th | 1st | [ABD](https://github.com/a104437ana/ABD) | 19/20 |
 | 4th | 1st | [CSI](https://github.com/a104437ana/CSI) | 17/20 |
 </details>
-  <details>
-  <summary>5th year</summary>
-    ...
-</details>
-</details>
-</details>
-﹌﹌﹌﹌﹌﹌﹌
 <details>
 <summary>Personal projects</summary>
   
