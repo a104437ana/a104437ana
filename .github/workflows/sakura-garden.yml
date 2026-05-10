@@ -2,7 +2,7 @@ name: Sakura Garden
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
   push:
     branches:
@@ -20,12 +20,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Create output branch if it doesn't exist
-        run: |
-          git fetch origin output 2>/dev/null \
-            && git checkout output \
-            || (git checkout --orphan output && git rm -rf . --ignore-unmatch)
-
       - name: Generate sakura garden
         uses: a104437ana/sakura-garden@v1
         env:
@@ -35,6 +29,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan output
           git add sakura-garden.svg sakura-garden-dark.svg
-          git diff --cached --quiet || git commit -m "Update sakura garden"
-          git push origin output
+          git commit -m "Update sakura garden" || exit 0
+          git push -f origin output
