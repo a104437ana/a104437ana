@@ -1,15 +1,14 @@
 <div align="center">
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=FF69B4&center=true&vCenter=true&width=300&height=30&duration=3000&pause=1000&lines=Hello+World;Olá+Mundo;Hola+Mundo;Bonjour+le+monde;Ciao+Mondo;Hallo+Welt;こんにちは世界;안녕하세요+세계;Привет+мир;你好，世界;مرحبا+بالعالم" alt="Hello World in multiple languages" style="max-width: 100%; height: auto;" />
-</p>
-<p>🌍</p>
-<h3>Hello world! <img src="waving_hand.gif" style="height: 1.5em;"/></h3>
-<h3>I'm <a href="https://ana.is-a.dev/">Ana Sá Oliveira</a> and this is my GitHub...</h3>
+<h2>Hello! <img src="waving_hand.gif" style="height: 1.1em;"/> I'm Ana Sá Oliveira</h2>
+<h3>I enjoy coding and building cool things <3 </h3>
 <p>
   <img src="gif.gif"/>
 </p>
-<h3>A place for my projects and experiments...</h3>
-<h3>🎓 College projects:</h3>
+<h3>Check out my website: https://ana.is-a.dev</h3>
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯·𖥸·⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+<h3>Check out my projects:</h3>
+<details>
+<summary>College projects</summary>
 <details>
   <summary>LEI - Bachelor's degree in Software Engineering</summary>
 <details>
@@ -74,32 +73,27 @@
     ...
 </details>
 </details>
-<h3>🌷 Personal projects:</h3>
-<details>
-  <summary>Previous Projects</summary>
-
-| 🔍 Overview | 🗂️ Project | 🌐 Website |
-|:---------:|:---------:|:---------:|
-| The Site of Answers | [the-site-of-answers](https://github.com/a104437ana/the-site-of-answers) | [the-site-of-answers.pages.dev](https://the-site-of-answers.pages.dev) |
 </details>
+﹌﹌﹌﹌﹌﹌﹌
 <details>
-  <summary>Ongoing Projects</summary>
-
+<summary>Personal projects</summary>
+  
 | 🔍 Overview | 🗂️ Project | 🌐 Website |
 |:---------:|:---------:|:---------:|
 | sakura garden | [sakura-garden](https://github.com/a104437ana/sakura-garden) | [sakura-garden.vercel.app](https://sakura-garden.vercel.app) |
 | Portfolio Website | [a104437ana.github.io](https://github.com/a104437ana/a104437ana.github.io) | [ana.is-a.dev](https://ana.is-a.dev) |
 | Curriculum Vitae | [cv](https://github.com/a104437ana/cv) | - |
 | README | [a104437ana](https://github.com/a104437ana/a104437ana) | - |
+| The Site of Answers | [the-site-of-answers](https://github.com/a104437ana/the-site-of-answers) | [the-site-of-answers.pages.dev](https://the-site-of-answers.pages.dev) |
 </details>
-<br>
-My GitHub contribution garden 🌸
-<br>
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯·𖥸·⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+<h3>Check out my GitHub contribution garden</h3>
+❀ One day at a time ❀
 <picture>
   <source srcset="https://raw.githubusercontent.com/a104437ana/a104437ana/output/sakura-garden-dark.svg" media="(prefers-color-scheme: dark)" width="1000"/>
   <source srcset="https://raw.githubusercontent.com/a104437ana/a104437ana/output/sakura-garden.svg" media="(prefers-color-scheme: light)" width="1000"/>
   <img src="https://raw.githubusercontent.com/a104437ana/a104437ana/output/sakura-garden.svg" alt="sakura garden" width="1000"/>
 </picture>
 <br>
-Want your own garden? → Visit the <a href="https://sakura-garden.vercel.app">website</a> or the <a href="https://github.com/a104437ana/sakura-garden">GitHub repository</a>
+Want your own garden? → Visit this <a href="https://sakura-garden.vercel.app">website</a> or this <a href="https://github.com/a104437ana/sakura-garden">GitHub repository</a>
 </div>
