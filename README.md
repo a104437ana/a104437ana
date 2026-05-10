@@ -1,12 +1,12 @@
 <div align="center">
 <h3>Hello! 👋 I'm Ana Sá Oliveira</h3>
-⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯·𖥸·⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯·𖥸·⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 <h3>I enjoy coding and building cool things <3 </h3>
 <p>
   <img src="gif.gif"/>
 </p>
 <h3>Check out my website: https://ana.is-a.dev</h3>
-⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯·𖥸·⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯·𖥸·⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 <h3>Check out my projects:</h3>
 <details>
 <summary>College projects</summary>
@@ -55,8 +55,8 @@
 | README | [a104437ana](https://github.com/a104437ana/a104437ana) | - |
 | The Site of Answers | [the-site-of-answers](https://github.com/a104437ana/the-site-of-answers) | [the-site-of-answers.pages.dev](https://the-site-of-answers.pages.dev) |
 </details>
-⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯·𖥸·⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-<h3>Check out my GitHub contribution garden</h3>
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯·𖥸·⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+<h3>Check out my GitHub contribution garden:</h3>
 "What you do every day matters more than what you do once in a while"
 <picture>
   <source srcset="https://raw.githubusercontent.com/a104437ana/a104437ana/output/sakura-garden-dark.svg" media="(prefers-color-scheme: dark)" width="1000"/>
