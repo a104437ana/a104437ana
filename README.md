@@ -43,6 +43,7 @@
 | 4th | 1st | [CPar](https://github.com/a104437ana/CPar) | 17.98/20 |
 | 4th | 1st | [ABD](https://github.com/a104437ana/ABD) | 19/20 |
 | 4th | 1st | [CSI](https://github.com/a104437ana/CSI) | 17/20 |
+| 4th | 1st | [CSI2](https://github.com/a104437ana/CSI2) | 18/20 |
 | 4th | 2nd | [PCF](https://github.com/a104437ana/PCF) | 17.5/20 |
 </details>
 <details>
