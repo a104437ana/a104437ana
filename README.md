@@ -1,6 +1,6 @@
 <div align="center">
-<h3>Hello! I'm Ana Sá Oliveira</h3>
-<h3>I enjoy coding and building cool things <3 </h3>
+<h1>Hello! I'm Ana Sá Oliveira...</h1>
+<h3>I enjoy coding and building cool things 💻</h3>
 <p>
   <img src="gif.gif"/>
 </p>
