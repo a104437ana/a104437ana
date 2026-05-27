@@ -45,6 +45,10 @@
 | 4th | 1st | [CSI](https://github.com/a104437ana/CSI) | 17/20 |
 | 4th | 1st | [CSI2](https://github.com/a104437ana/CSI2) | 18/20 |
 | 4th | 2nd | [PCF](https://github.com/a104437ana/PCF) | 17.5/20 |
+| 4th | 2nd | PCF2 (coming soon) | ?/20 |
+| 4th | 2nd | VF (coming soon) | ?/20 |
+| 4th | 2nd | EA (coming soon) | ?/20 |
+| 4th | 2nd | MFP (coming soon) | ?/20 |
 </details>
 <details>
 <summary>Personal projects</summary>
