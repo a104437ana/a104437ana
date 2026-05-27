@@ -1,12 +1,10 @@
 <div align="center">
 <h3>Hello! I'm Ana Sá Oliveira</h3>
-⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 <h3>I enjoy coding and building cool things <3 </h3>
 <p>
   <img src="gif.gif"/>
 </p>
 <h3>My website: https://ana.is-a.dev</h3>
-⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 <h3>My projects</h3>
 <details>
 <summary>College projects</summary>
@@ -61,9 +59,8 @@
 | README | [a104437ana](https://github.com/a104437ana/a104437ana) | - |
 | The Site of Answers | [the-site-of-answers](https://github.com/a104437ana/the-site-of-answers) | [the-site-of-answers.pages.dev](https://the-site-of-answers.pages.dev) |
 </details>
-⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-<h3>My code garden</h3>
-Where commits become flowers 🌸
+<h3>My GitHub Activity Lately</h3>
+My digital garden where commits become flowers 🌸
 <picture>
   <source srcset="https://raw.githubusercontent.com/a104437ana/a104437ana/output/sakura-garden-dark.svg" media="(prefers-color-scheme: dark)" width="1000"/>
   <source srcset="https://raw.githubusercontent.com/a104437ana/a104437ana/output/sakura-garden.svg" media="(prefers-color-scheme: light)" width="1000"/>
