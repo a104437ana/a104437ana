@@ -1,11 +1,9 @@
-<div align="center">
-<picture>
+<div align="">
+  <picture>
   <source srcset="https://raw.githubusercontent.com/a104437ana/a104437ana/output/sakura-garden-dark.svg" media="(prefers-color-scheme: dark)" width="1000"/>
   <source srcset="https://raw.githubusercontent.com/a104437ana/a104437ana/output/sakura-garden.svg" media="(prefers-color-scheme: light)" width="1000"/>
   <img src="https://raw.githubusercontent.com/a104437ana/a104437ana/output/sakura-garden.svg" alt="sakura garden" width="1000"/>
 </picture>
-My website: https://ana.is-a.dev
-<h3>My projects</h3>
 <details>
 <summary>College projects</summary>
 
@@ -59,4 +57,5 @@ My website: https://ana.is-a.dev
 | README | [a104437ana](https://github.com/a104437ana/a104437ana) | - |
 | The Site of Answers | [the-site-of-answers](https://github.com/a104437ana/the-site-of-answers) | [the-site-of-answers.pages.dev](https://the-site-of-answers.pages.dev) |
 </details>
+My website: https://ana.is-a.dev
 </div>
