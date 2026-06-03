@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hello World!</h1>
 <h3>I'm Ana Sá Oliveira and this is my GitHub...</h3>
-I like to grow flowers in my GitHub garden 🦋
+A place for my projects and experiments...
   <picture>
   <source srcset="https://raw.githubusercontent.com/a104437ana/a104437ana/output/sakura-garden-dark.svg" media="(prefers-color-scheme: dark)" width="1000"/>
   <source srcset="https://raw.githubusercontent.com/a104437ana/a104437ana/output/sakura-garden.svg" media="(prefers-color-scheme: light)" width="1000"/>
