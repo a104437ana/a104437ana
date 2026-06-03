@@ -1,12 +1,16 @@
 <div align="center">
-My website: https://ana.is-a.dev 🦋
+  <h1>Hello World!</h1>
+<h3>I'm Ana Sá Oliveira and this is my GitHub...</h3>
+I like to grow flowers in my GitHub garden 🦋
   <picture>
   <source srcset="https://raw.githubusercontent.com/a104437ana/a104437ana/output/sakura-garden-dark.svg" media="(prefers-color-scheme: dark)" width="1000"/>
   <source srcset="https://raw.githubusercontent.com/a104437ana/a104437ana/output/sakura-garden.svg" media="(prefers-color-scheme: light)" width="1000"/>
   <img src="https://raw.githubusercontent.com/a104437ana/a104437ana/output/sakura-garden.svg" alt="sakura garden" width="1000"/>
 </picture>
+My website: https://ana.is-a.dev
+<br><br>
 <details>
-<summary>College projects (LEI and MEI) 🌸</summary>
+<summary>College projects (LEI and MEI)</summary>
 
 | 🗓️ Year | 🗓️ Semester | 🗂️ Project | ✅ Grade |
 |:---------:|:---------:|:---------:|:---------:|
@@ -48,7 +52,7 @@ My website: https://ana.is-a.dev 🦋
 | 4th | 2nd | MFP (coming soon) | ?/20 |
 </details>
 <details>
-<summary>Personal projects 🌸</summary>
+<summary>Personal projects</summary>
   
 | 🔍 Overview | 🗂️ Project | 🌐 Website |
 |:---------:|:---------:|:---------:|
