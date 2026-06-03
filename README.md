@@ -6,7 +6,7 @@ My website: https://ana.is-a.dev 🦋
   <img src="https://raw.githubusercontent.com/a104437ana/a104437ana/output/sakura-garden.svg" alt="sakura garden" width="1000"/>
 </picture>
 <details>
-<summary>College projects (LEI and MEI)</summary>
+<summary>College projects (LEI and MEI) 🌸</summary>
 
 | 🗓️ Year | 🗓️ Semester | 🗂️ Project | ✅ Grade |
 |:---------:|:---------:|:---------:|:---------:|
@@ -48,7 +48,7 @@ My website: https://ana.is-a.dev 🦋
 | 4th | 2nd | MFP (coming soon) | ?/20 |
 </details>
 <details>
-<summary>Personal projects</summary>
+<summary>Personal projects 🌸</summary>
   
 | 🔍 Overview | 🗂️ Project | 🌐 Website |
 |:---------:|:---------:|:---------:|
