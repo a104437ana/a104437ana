@@ -49,7 +49,7 @@ My website: https://ana.is-a.dev
 | 4th | 2nd | [PCF2](https://github.com/a104437ana/PCF2) | 17.5/20 |
 | 4th | 2nd | VF (coming soon) | ?/20 |
 | 4th | 2nd | EA (coming soon) | ?/20 |
-| 4th | 2nd | MFP (coming soon) | ?/20 |
+| 4th | 2nd | MFP (coming soon) | 18/20 |
 </details>
 <details>
 <summary>Personal projects</summary>
