@@ -47,7 +47,7 @@ My website: https://ana.is-a.dev
 | 4th | 1st | [CSI2](https://github.com/a104437ana/CSI2) | 18/20 |
 | 4th | 2nd | [PCF](https://github.com/a104437ana/PCF) | 17.5/20 |
 | 4th | 2nd | [PCF2](https://github.com/a104437ana/PCF2) | 17.5/20 |
-| 4th | 2nd | [VF](https://github.com/a104437ana/VF) | ?/20 |
+| 4th | 2nd | [VF](https://github.com/a104437ana/VF) | 18/20 |
 | 4th | 2nd | [EA](https://github.com/a104437ana/EA) | ?/20 |
 | 4th | 2nd | [MFP](https://github.com/a104437ana/MFP) | 18/20 |
 </details>
