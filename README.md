@@ -1,8 +1,13 @@
 <div align="center">
   <h1>Hello World!</h1>
 <h3>I'm Ana Sá Oliveira and this is my GitHub...</h3>
-A place for my projects and experiments...
-<picture> <source srcset="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=dark" media="(prefers-color-scheme: dark)" /> <source srcset="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=light" media="(prefers-color-scheme: light)" /> <img src="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=light" width="1000" alt="sakura contributions" /> </picture>
+A place for my projects and experiments...<br><br>
+<picture>
+  <source srcset="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff2d95&theme=dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff2d95&theme=light" media="(prefers-color-scheme: light)" />
+  <img src="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff2d95&theme=light" alt="a104437ana contributions" width="1000" />
+</picture>
+<br><br>
 My website: https://ana.is-a.dev
 <br><br>
 <details>
