@@ -7,7 +7,7 @@ A place for my projects and experiments...<br><br>
   <source srcset="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff2d95&theme=light" media="(prefers-color-scheme: light)" />
   <img src="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff2d95&theme=light" alt="a104437ana contributions" width="1000" />
 </picture>
-<br><br>
+<br>
 My website: https://ana.is-a.dev
 <br><br>
 <details>
