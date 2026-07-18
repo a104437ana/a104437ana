@@ -3,9 +3,9 @@
 <h3>I'm Ana Sá Oliveira and this is my GitHub...</h3>
 A place for my projects and experiments...<br><br>
 <picture>
-  <source srcset="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=4697ff&theme=dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=4697ff&theme=light" media="(prefers-color-scheme: light)" />
-  <img src="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=4697ff&theme=light" alt="a104437ana contributions" width="1000" />
+  <source srcset="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff8fcc&theme=dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff8fcc&theme=light" media="(prefers-color-scheme: light)" />
+  <img src="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff8fcc&theme=light" alt="a104437ana contributions" width="1000" />
 </picture>
 <br>
 My website: https://ana.is-a.dev
