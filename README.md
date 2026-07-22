@@ -2,11 +2,13 @@
   <h1>Hello World!</h1>
 <h3>I'm Ana Sá Oliveira and this is my GitHub...</h3>
 A place for my projects and experiments...<br><br>
-<picture>
-  <source srcset="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff2d95&theme=dark&mode=mono&rainbow=1&preset=rainbow" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff2d95&theme=light&mode=mono&rainbow=1&preset=rainbow" media="(prefers-color-scheme: light)" />
-  <img src="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff2d95&theme=light&mode=mono&rainbow=1&preset=rainbow" alt="a104437ana contributions" width="1000" />
-</picture>
+<a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
+  <picture>
+    <source srcset="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff2d95&theme=dark&mode=mono&preset=rainbow" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff2d95&theme=light&mode=mono&preset=rainbow" media="(prefers-color-scheme: light)" />
+    <img src="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff2d95&theme=light&mode=mono&preset=rainbow" alt="a104437ana contributions" width="1000" />
+  </picture>
+</a>
 <br>
 My website: https://ana.is-a.dev
 <br><br>
