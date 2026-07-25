@@ -1,6 +1,7 @@
 <div>
-  <h1>Hello, I'm Ana :)</h1>
-My GitHub activity from the past year:
+<h1>Hello, I'm Ana :)</h1>
+  <h3>I'm a software engineer based in Braga, Portugal.</h3>
+My website is https://ana.is-a.dev, and below you can see my GitHub activity from the past year:
 <br><br>
 <a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
   <picture>
@@ -9,62 +10,12 @@ My GitHub activity from the past year:
     <img src="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff2d95&theme=light&mode=mono&preset=rainbow" alt="a104437ana contributions" width="1000" />
   </picture>
 </a>
-<br><br>
-My website: https://ana.is-a.dev
-<br><br>
-<details>
-<summary>My college projects (LEI and MEI)</summary>
+<h3>My college projects - LEI & MEI - UMinho</h3>
 
-| 🗓️ Year | 🗓️ Semester | 🗂️ Project | ✅ Grade |
-|:---------:|:---------:|:---------:|:---------:|
-| 1st | 1st | [LI1](https://github.com/a104437ana/LI1) | 16/20 |
-| 1st | 2nd | [LI2](https://github.com/a104437ana/LI2) | 18/20 |
-| 2nd | 1st | [LI3](https://github.com/a104437ana/LI3) | 19/20 |
-| 2nd | 2nd | [BD](https://github.com/a104437ana/BD) | 19/20 |
-| 2nd | 2nd | [IO](https://github.com/a104437ana/IO) | 17/20 |
-| 2nd | 2nd | [POO](https://github.com/a104437ana/POO) | 18/20 |
-| 2nd | 2nd | [RC](https://github.com/a104437ana/RC) | 16.83/20 |
-| 2nd | 2nd | [SO](https://github.com/a104437ana/SO) | 19.1/20 |
-| 3rd | 1st | [CP](https://github.com/a104437ana/CP) | 19/20 |
-| 3rd | 1st | [CC](https://github.com/a104437ana/CC) | 14.1/20 |
-| 3rd | 1st | [DSS](https://github.com/a104437ana/DSS) | 18/20 |
-| 3rd | 1st | [IA](https://github.com/a104437ana/IA) | 17/20 |
-| 3rd | 1st | [LI4](https://github.com/a104437ana/LI4) | 17/20 |
-| 3rd | 1st | [SD](https://github.com/a104437ana/SD) | 18.4/20 |
-| 3rd | 2nd | [PL](https://github.com/a104437ana/PL) | 18/20 |
-| 3rd | 2nd | [EngWeb](https://github.com/a104437ana/EngWeb) | 17/20 |
-| 3rd | 2nd | [CG](https://github.com/a104437ana/CG) | 20/20 |
-| 3rd | 2nd | [ADI](https://github.com/a104437ana/ADI) | 20/20 |
-| 3rd | 2nd | [SSI](https://github.com/a104437ana/SSI) | 16.85/20 |
-| 3rd | 2nd | [IPM](https://github.com/a104437ana/IPM) | 19/20 |
-| 3rd | 2nd | [PL2025](https://github.com/a104437ana/PL2025) | 20/20 |
-| 3rd | 2nd | [EngWeb2025](https://github.com/a104437ana/EngWeb2025) | 20/20 |
-| 3rd | 2nd | [ENGWEB2025-Normal](https://github.com/a104437ana/ENGWEB2025-Normal) | 18.2/20 |
-| 3rd | 2nd | [EngWeb-Tutorial](https://github.com/a104437ana/EngWeb-Tutorial) | - |
-| 3rd | 2nd | [HACKATHON-BUGSBYTE-2025](https://github.com/a104437ana/HACKATHON-BUGSBYTE-2025) | - |
-| 4th | 1st | [ASCN](https://github.com/a104437ana/ASCN) | 20/20 |
-| 4th | 1st | [RAS](https://github.com/a104437ana/RAS) | 17.1/20 |
-| 4th | 1st | [CPar](https://github.com/a104437ana/CPar) | 17.98/20 |
-| 4th | 1st | [ABD](https://github.com/a104437ana/ABD) | 19/20 |
-| 4th | 1st | [CSI](https://github.com/a104437ana/CSI) | 17/20 |
-| 4th | 1st | [CSI2](https://github.com/a104437ana/CSI2) | 18/20 |
-| 4th | 2nd | [PCF](https://github.com/a104437ana/PCF) | 17.5/20 |
-| 4th | 2nd | [PCF2](https://github.com/a104437ana/PCF2) | 17.5/20 |
-| 4th | 2nd | [VF](https://github.com/a104437ana/VF) | 18/20 |
-| 4th | 2nd | [EA](https://github.com/a104437ana/EA) | 18/20 |
-| 4th | 2nd | [MFP](https://github.com/a104437ana/MFP) | 18/20 |
-</details>
-<details>
-<summary>My personal projects</summary>
-  
-| 🔍 Overview | 🗂️ Project | 🌐 Website |
-|:---------:|:---------:|:---------:|
-| sakura garden | [sakura-garden](https://github.com/a104437ana/sakura-garden) | [sakura-garden.vercel.app](https://sakura-garden.vercel.app) |
-| gitcolors | [gitcolors](https://github.com/a104437ana/gitcolors) | [gitcolors.vercel.app](https://gitcolors.vercel.app) |
-| Portfolio Website | [a104437ana.github.io](https://github.com/a104437ana/a104437ana.github.io) | [ana.is-a.dev](https://ana.is-a.dev) |
-| contributions | [contributions](https://github.com/a104437ana/contributions) | - |
-| Curriculum Vitae | [cv](https://github.com/a104437ana/cv) | - |
-| README | [a104437ana](https://github.com/a104437ana/a104437ana) | - |
-| The Site of Answers | [the-site-of-answers](https://github.com/a104437ana/the-site-of-answers) | [the-site-of-answers.pages.dev](https://the-site-of-answers.pages.dev) |
-</details>
-  </div>
+[LI1](https://github.com/a104437ana/LI1) 16/20; [LI2](https://github.com/a104437ana/LI2) 18/20; [LI3](https://github.com/a104437ana/LI3) 19/20; [BD](https://github.com/a104437ana/BD) 19/20; [IO](https://github.com/a104437ana/IO) 17/20; [POO](https://github.com/a104437ana/POO) 18/20; [RC](https://github.com/a104437ana/RC) 16.83/20; [SO](https://github.com/a104437ana/SO) 19.1/20; [CP](https://github.com/a104437ana/CP) 19/20; [CC](https://github.com/a104437ana/CC) 14.1/20; [DSS](https://github.com/a104437ana/DSS) 18/20; [IA](https://github.com/a104437ana/IA) 17/20; [LI4](https://github.com/a104437ana/LI4) 17/20; [SD](https://github.com/a104437ana/SD) 18.4/20; [PL](https://github.com/a104437ana/PL) 18/20; [EngWeb](https://github.com/a104437ana/EngWeb) 17/20; [CG](https://github.com/a104437ana/CG) 20/20; [ADI](https://github.com/a104437ana/ADI) 20/20; [SSI](https://github.com/a104437ana/SSI) 16.85/20; [IPM](https://github.com/a104437ana/IPM) 19/20; [PL2025](https://github.com/a104437ana/PL2025) 20/20; [EngWeb2025](https://github.com/a104437ana/EngWeb2025) 20/20; [ENGWEB2025-Normal](https://github.com/a104437ana/ENGWEB2025-Normal) 18.2/20; [EngWeb-Tutorial](https://github.com/a104437ana/EngWeb-Tutorial); [HACKATHON-BUGSBYTE-2025](https://github.com/a104437ana/HACKATHON-BUGSBYTE-2025); [ASCN](https://github.com/a104437ana/ASCN) 20/20; [RAS](https://github.com/a104437ana/RAS) 17.1/20; [CPar](https://github.com/a104437ana/CPar) 17.98/20; [ABD](https://github.com/a104437ana/ABD) 19/20; [CSI](https://github.com/a104437ana/CSI) 17/20; [CSI2](https://github.com/a104437ana/CSI2) 18/20; [PCF](https://github.com/a104437ana/PCF) 17.5/20; [PCF2](https://github.com/a104437ana/PCF2) 17.5/20; [VF](https://github.com/a104437ana/VF) 18/20; [EA](https://github.com/a104437ana/EA) 18/20; [MFP](https://github.com/a104437ana/MFP) 18/20;
+<h3>My personal projects <3</h3>
+
+[gitcolors](https://github.com/a104437ana/gitcolors) (https://gitcolors.vercel.app);
+<br>
+[sakura-garden](https://github.com/a104437ana/sakura-garden) (https://sakura-garden.vercel.app);
+</div>
