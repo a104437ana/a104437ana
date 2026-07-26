@@ -3,11 +3,11 @@
   <h3>I'm a software engineer based in Braga, Portugal.</h3>
 My website is https://ana.is-a.dev, and below you can see my GitHub activity from the past year:
 <br><br>
-<a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
+<a href="https://sakura-garden.vercel.app" target="_blank" rel="noopener">
   <picture>
-    <source srcset="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff2d95&theme=dark&mode=mono&preset=rainbow" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff2d95&theme=light&mode=mono&preset=rainbow" media="(prefers-color-scheme: light)" />
-    <img src="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff2d95&theme=light&mode=mono&preset=rainbow" alt="a104437ana contributions" width="1000" />
+    <source srcset="https://raw.githubusercontent.com/your-github-username/a104437ana/output/sakura-garden-dark.svg" media="(prefers-color-scheme: dark)" width="1000"/>
+    <source srcset="https://raw.githubusercontent.com/your-github-username/a104437ana/output/sakura-garden.svg" media="(prefers-color-scheme: light)" width="1000"/>
+    <img src="https://raw.githubusercontent.com/your-github-username/a104437ana/output/sakura-garden.svg" alt="sakura garden" width="1000"/>
   </picture>
 </a>
 My favorite projects:
