@@ -2,7 +2,6 @@
 <h1>Hello, I'm Ana :)</h1>
   <h3>I'm a software engineer based in Braga, Portugal.</h3>
 My website is https://ana.is-a.dev, and below you can see my GitHub activity from the past year:
-<br><br>
 <a href="https://sakura-garden.vercel.app" target="_blank" rel="noopener">
   <picture>
     <source srcset="https://raw.githubusercontent.com/a104437ana/a104437ana/output/sakura-garden-dark.svg" media="(prefers-color-scheme: dark)" width="1000"/>
@@ -10,7 +9,6 @@ My website is https://ana.is-a.dev, and below you can see my GitHub activity fro
     <img src="https://raw.githubusercontent.com/a104437ana/a104437ana/output/sakura-garden.svg" alt="sakura garden" width="1000"/>
   </picture>
 </a>
-
 My favorite projects:
 
 - [gitcolors](https://github.com/a104437ana/gitcolors) (https://gitcolors.vercel.app);
