@@ -6,7 +6,7 @@ My website is https://ana.is-a.dev, and below you can see my GitHub activity fro
  <picture>
   <source srcset="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=dark" media="(prefers-color-scheme: dark)" />
   <source srcset="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=light" media="(prefers-color-scheme: light)" />
-  <img src="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=light" alt="a104437ana sakura contributions" width="1000" />
+  <img src="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=light" alt="a104437ana sakura contributions" width="1000" height="194" />
 </picture>
 </a>
 My favorite projects:
