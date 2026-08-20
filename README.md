@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hello+%3A))](https://git.io/typing-svg)
-
 <div>
 <h1>Hello, I'm Ana :)</h1>
   <h3>I'm a software engineer based in Braga, Portugal.</h3>
