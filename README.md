@@ -8,7 +8,7 @@ My website is https://ana.is-a.dev, and below you can see my GitHub activity fro
     <source srcset="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff81a9&theme=light&mode=levels&preset=none&animate=true&emptyColor=neutral" media="(prefers-color-scheme: light)" />
     <img src="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff81a9&theme=light&mode=levels&preset=none&animate=true&emptyColor=neutral" width="846" height="145" />
   </picture>
-</a><br><br>
+</a><br>
 My favorite projects:
 
 - [gitcolors](https://github.com/a104437ana/gitcolors) (https://gitcolors.vercel.app);
