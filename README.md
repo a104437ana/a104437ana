@@ -6,7 +6,7 @@ My website is https://ana.is-a.dev, and below you can see my GitHub activity fro
     <picture>
           <source srcset="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff81a9&theme=dark&mode=solid&preset=none&animate=true&emptyColor=neutral" media="(prefers-color-scheme: dark)" />
           <source srcset="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff81a9&theme=light&mode=solid&preset=none&animate=true&emptyColor=neutral" media="(prefers-color-scheme: light)" />
-          <img src="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff81a9&theme=light&mode=solid&preset=none&animate=true&emptyColor=neutral" width="846" height="145" />
+          <img src="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff81a9&theme=light&mode=solid&preset=none&animate=true&emptyColor=neutral" width="846" height="145" style="height:auto" />
     </picture>
 </a><br>
 My favorite projects:
