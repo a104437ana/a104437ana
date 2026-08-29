@@ -2,12 +2,12 @@
 <h1>Hello, I'm Ana :)</h1>
   <h3>I'm a software engineer based in Braga, Portugal.</h3>
 My website is https://ana.is-a.dev, and below you can see my GitHub activity from the past year:<br>
-<a href="https://sakura-garden.vercel.app" target="_blank" rel="noopener">
- <picture>
-  <source srcset="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=light" media="(prefers-color-scheme: light)" />
-  <img src="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=light" width="846" height="164" style="height:auto" />
-</picture>
+<a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
+  <picture>
+    <source srcset="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff81a9&theme=dark&mode=mono&preset=none&animate=true&emptyColor=neutral" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff81a9&theme=light&mode=mono&preset=none&animate=true&emptyColor=neutral" media="(prefers-color-scheme: light)" />
+    <img src="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff81a9&theme=light&mode=mono&preset=none&animate=true&emptyColor=neutral" width="846" height="145" style="height:auto" />
+  </picture>
 </a>
 My favorite projects:
 
