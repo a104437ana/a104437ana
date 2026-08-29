@@ -1,7 +1,7 @@
 <div>
 <h1>Hello, I'm Ana :)</h1>
   <h3>I'm a software engineer based in Braga, Portugal.</h3>
-My website is https://ana.is-a.dev, and below you can see my GitHub activity from the past year:<br>
+My website is https://ana.is-a.dev, and below you can see my GitHub activity from the past year:<br><br>
 <a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
   <picture>
     <source srcset="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff81a9&theme=dark&mode=mono&preset=none&animate=true&emptyColor=neutral" media="(prefers-color-scheme: dark)" />
