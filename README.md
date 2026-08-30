@@ -11,8 +11,8 @@ My website is https://ana.is-a.dev, and below you can see my GitHub activity fro
 </a>
 My favorite projects:
 
-- [gitcolors](https://github.com/a104437ana/gitcolors) (https://gitcolors.vercel.app);
-- [sakura-garden](https://github.com/a104437ana/sakura-garden) (https://sakura-garden.vercel.app);
+- [sakura-garden](https://github.com/a104437ana/sakura-garden) (https://sakura-garden.vercel.app) ↑
+- [gitcolors](https://github.com/a104437ana/gitcolors) (https://gitcolors.vercel.app)
 
 <details>
 <summary>My college projects (LEI & MEI - UMinho)</summary>
