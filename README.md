@@ -4,9 +4,9 @@
 My website is https://ana.is-a.dev, and below you can see my GitHub activity from the past year:<br>
 <a href="https://sakura-garden.vercel.app" target="_blank" rel="noopener">
  <picture>
-  <source srcset="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=dark" media="(prefers-color-scheme: dark)" width="846" height="164" style="height:auto" />
-  <source srcset="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=light" media="(prefers-color-scheme: light)" width="846" height="164" style="height:auto" />
-  <img src="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=light" width="846" height="164" style="height:auto" />
+  <source srcset="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=dark" media="(prefers-color-scheme: dark)" width="1000" height="194" style="height:auto" />
+  <source srcset="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=light" media="(prefers-color-scheme: light)" width="1000" height="194" style="height:auto" />
+  <img src="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=light" width="1000" height="194" style="height:auto" />
 </picture>
 </a>
 My favorite projects:
