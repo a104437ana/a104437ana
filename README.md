@@ -2,16 +2,16 @@
 <h1>Hello, I'm Ana :)</h1>
   <h3>I'm a software engineer based in Braga, Portugal.</h3>
 My website is https://ana.is-a.dev, and below you can see my GitHub activity from the past year:
-<a href="https://sakura-garden.vercel.app" target="_blank" rel="noopener">
- <picture>
-  <source srcset="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=dark" media="(prefers-color-scheme: dark)" width="846" height="164" style="height:auto" />
-  <source srcset="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=light" media="(prefers-color-scheme: light)" width="846" height="164" style="height:auto" />
-  <img src="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=light" width="846" height="164" style="height:auto" />
-</picture>
+<a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
+  <picture>
+    <source srcset="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=22c55e&theme=dark&mode=mono&preset=github&animate=true&emptyColor=filled" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=22c55e&theme=light&mode=mono&preset=github&animate=true&emptyColor=filled" media="(prefers-color-scheme: light)" />
+    <img src="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=22c55e&theme=light&mode=mono&preset=github&animate=true&emptyColor=filled" width="846" height="164" style="height:auto" />
+  </picture>
 </a><br>
 My favorite projects:
 
-- [sakura-garden](https://github.com/a104437ana/sakura-garden) (https://sakura-garden.vercel.app) ↑
+- [sakura-garden](https://github.com/a104437ana/sakura-garden) (https://sakura-garden.vercel.app)
 - [gitcolors](https://github.com/a104437ana/gitcolors) (https://gitcolors.vercel.app)
 
 <details>
