@@ -2,13 +2,15 @@
 <h1>Hello, I'm Ana :)</h1>
   <h3>I'm a software engineer based in Braga, Portugal.</h3>
 My website is https://ana.is-a.dev, and below you can see my GitHub activity from the past year:<br>
+  <p align="left">
 <a href="https://sakura-garden.vercel.app" target="_blank" rel="noopener">
  <picture align="left">
   <source align="left" srcset="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=dark" media="(prefers-color-scheme: dark)" width="1000" height="164" style="height:auto" />
-  <source align="left" srcset="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=light" media="(prefers-color-scheme: light)" width="1000"  style="height:auto" />
+  <source align="left" srcset="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=light" media="(prefers-color-scheme: light)" width="1000" height="194" style="height:auto" />
   <img align="left" src="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=light" width="1000" height="194" style="height:auto" />
 </picture>
 </a>
+  </p>
 My favorite projects:
 
 - [sakura-garden](https://github.com/a104437ana/sakura-garden) (https://sakura-garden.vercel.app) ↑
