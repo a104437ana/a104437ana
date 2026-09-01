@@ -13,6 +13,7 @@ My favorite projects:
 
 - [sakura-garden](https://github.com/a104437ana/sakura-garden) (https://sakura-garden.vercel.app)
 - [gitcolors](https://github.com/a104437ana/gitcolors) (https://gitcolors.vercel.app)
+- [repo-stars](https://github.com/a104437ana/repo-stars) (https://repo-stars.vercel.app/)
 
 <details>
 <summary>My college projects (LEI & MEI - UMinho)</summary>
