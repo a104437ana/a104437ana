@@ -4,9 +4,9 @@
 My website is https://ana.is-a.dev, and below you can see my GitHub activity from the past year:
 <a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
   <picture>
-    <source srcset="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff2d95&theme=dark&mode=levels&preset=github&animate=true&emptyColor=filled" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff2d95&theme=light&mode=levels&preset=github&animate=true&emptyColor=filled" media="(prefers-color-scheme: light)" />
-    <img src="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff2d95&theme=light&mode=levels&preset=github&animate=true&emptyColor=filled" width="846" height="164" style="height:auto" />
+    <source srcset="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=0969da&theme=dark&mode=mono&preset=none&animate=true&emptyColor=filled" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=0969da&theme=light&mode=mono&preset=none&animate=true&emptyColor=filled" media="(prefers-color-scheme: light)" />
+    <img src="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=0969da&theme=light&mode=mono&preset=none&animate=true&emptyColor=filled" width="846" height="164" style="height:auto" />
   </picture>
 </a><br>
 My favorite projects:
