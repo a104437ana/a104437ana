@@ -1,5 +1,5 @@
 <div>
-<h1>Hello, I'm Ana :)</h1>
+<h1>Hello, I'm Ana Sá Oliveira :)</h1>
   <h3>I'm a software engineer based in Braga, Portugal.</h3>
 My website is https://ana.is-a.dev, and below you can see my GitHub activity from the past year:
 <a href="https://sakura-garden.vercel.app" target="_blank" rel="noopener">
