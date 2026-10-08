@@ -8,7 +8,6 @@ My website: https://ana.is-a.dev
 **My GitHub activity this year**
 
 <a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
-  <picture><img src="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=4098ff&theme=auto&mode=mono&preset=none&animate=true&emptyColor=neutral"/></picture>
+  <picture><img src="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=4098ff&theme=auto&mode=mono&preset=none&animate=true&emptyColor=neutral" width="846" height="164" style="height:auto"/></picture>
 </a>
-
 generated with <a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">gitcolors</a>
