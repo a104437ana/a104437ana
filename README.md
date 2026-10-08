@@ -8,6 +8,6 @@ My website: https://ana.is-a.dev
 **My GitHub activity this year**
 <a href="https://sakura-garden.vercel.app" target="_blank" rel="noopener">
 <picture>
-  <img src="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=auto-green" width="846" height="164" style="height:auto" loading="eager"/>
+  <img src="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=auto-green&levels=false" width="846" height="164" style="height:auto" loading="eager"/>
 </picture>
 </a>
