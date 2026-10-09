@@ -7,7 +7,7 @@ My website: https://ana.is-a.dev
 
 <a href="https://sakura-garden.vercel.app" target="_blank" rel="noopener">
  <picture>
-  <img src="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=auto-green"/>
+  <img src="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=auto-green" width="1000" />
 </picture>
 </a>
 generated with <a href="https://sakura-garden.vercel.app" target="_blank" rel="noopener">sakura-garden</a>
