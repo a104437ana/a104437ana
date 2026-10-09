@@ -9,7 +9,7 @@ My website: https://ana.is-a.dev
  
 **My garden of commits** generated with <a href="https://sakura-garden.vercel.app" target="_blank" rel="noopener">sakura-garden</a><a href="https://sakura-garden.vercel.app" target="_blank" rel="noopener">
  <picture>
-  <img src="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=auto-green" width="1000" height="180"/>
+  <img src="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=auto-green" height="160"/>
 </picture>
 </a>
 </div>
