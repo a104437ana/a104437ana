@@ -16,9 +16,9 @@ My contributions in the last year:
 
 <a href="https://sakura-garden.vercel.app" target="_blank" rel="noopener">
 <picture>
-  <source srcset="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=dark&labels=false" media="(prefers-color-scheme: dark)" width="701" height="99" style="height:auto" />
-  <source srcset="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=light&labels=false" media="(prefers-color-scheme: light)" width="701" height="99" style="height:auto" />
-  <img src="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=light&labels=false" width="701" height="99" style="height:auto" alt="a104437ana contributions" />
+  <source srcset="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=dark&labels=false" media="(prefers-color-scheme: dark)" width="846" height="119" style="height:auto" />
+  <source srcset="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=light&labels=false" media="(prefers-color-scheme: light)" width="846" height="119" style="height:auto" />
+  <img src="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=light&labels=false" width="846" height="119" style="height:auto" alt="a104437ana contributions" />
 </picture>
 </a>
 
