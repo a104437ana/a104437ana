@@ -12,12 +12,14 @@ My website: https://ana.is-a.dev
 [sakura-garden](https://github.com/a104437ana/sakura-garden); [gitcolors](https://github.com/a104437ana/gitcolors); [repo-stars](https://github.com/a104437ana/repo-stars); [planner](https://github.com/a104437ana/planner); [nomes-portugal](https://github.com/a104437ana/nomes-portugal); [grow-a-flower](https://github.com/a104437ana/grow-a-flower); [the-site-of-answers](https://github.com/a104437ana/the-site-of-answers); 
 </details>
 
-My contributions in the last year (let me cook):
+My contributions in the last year:
 
+<a href="https://sakura-garden.vercel.app" target="_blank" rel="noopener">
 <picture>
-  <source srcset="./i-am-cooking.svg" media="(prefers-color-scheme: dark)" width="846" height="119" style="height:auto" />
-  <source srcset="./i-am-cooking-light.svg" media="(prefers-color-scheme: light)" width="846" height="119" style="height:auto" />
-  <img src="./i-am-cooking-light.svg" width="846" height="119" style="height:auto" alt="my contributions, cooking" />
+  <source srcset="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=dark&labels=false" media="(prefers-color-scheme: dark)" width="701" height="99" style="height:auto" />
+  <source srcset="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=light&labels=false" media="(prefers-color-scheme: light)" width="701" height="99" style="height:auto" />
+  <img src="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=light&labels=false" width="701" height="99" style="height:auto" alt="a104437ana contributions" />
 </picture>
+</a>
 
 generated with [a104437ana/sakura-garden](https://github.com/a104437ana/sakura-garden)
