@@ -15,11 +15,7 @@ My website: https://ana.is-a.dev
 My contributions in the last year (my garden):
 
 <a href="https://sakura-garden.vercel.app" target="_blank" rel="noopener">
- <picture>
-  <source srcset="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=dark" media="(prefers-color-scheme: dark)" width="846" height="132" style="height:auto" />
-  <source srcset="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=light" media="(prefers-color-scheme: light)" width="846" height="132" style="height:auto" />
-  <img src="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=light" width="846" height="132" style="height:auto" />
-</picture>
+  <img src="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=auto-green" width="846" height="132" style="height:auto" />
 </a>
 
 bye <3
