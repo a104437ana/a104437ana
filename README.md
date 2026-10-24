@@ -15,7 +15,9 @@ My website: https://ana.is-a.dev
 My contributions in the last year (let me cook):
 
 <picture>
-  <img src="./i-am-cooking.svg" width="846" height="125" style="height:auto" alt="my contributions, cooking" />
+  <source srcset="./i-am-cooking.svg" media="(prefers-color-scheme: dark)" width="846" height="119" style="height:auto" />
+  <source srcset="./i-am-cooking-light.svg" media="(prefers-color-scheme: light)" width="846" height="119" style="height:auto" />
+  <img src="./i-am-cooking-light.svg" width="846" height="119" style="height:auto" alt="my contributions, cooking" />
 </picture>
 
 generated with [a104437ana/sakura-garden](https://github.com/a104437ana/sakura-garden)
