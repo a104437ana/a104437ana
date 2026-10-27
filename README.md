@@ -1,5 +1,5 @@
 <picture>
-<img align="right" height="100" alt="image" src="https://github.com/user-attachments/assets/a73c2314-b273-4e06-9065-8dd6d55b4671" style="height:auto"  />
+<img align="right" width="auto" height="100" alt="image" src="https://github.com/user-attachments/assets/a73c2314-b273-4e06-9065-8dd6d55b4671"/>
 </picture>
 
 # Ana Sá Oliveira
