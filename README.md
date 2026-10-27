@@ -1,6 +1,10 @@
-# Ana Sá Oliveira
-My website: https://ana.is-a.dev
+<picture>
+<img align="right" height="150" alt="image" src="https://github.com/user-attachments/assets/a73c2314-b273-4e06-9065-8dd6d55b4671" />
+</picture>
 
+# Ana Sá Oliveira
+
+My website: https://ana.is-a.dev
 <table>
 <td>
 <b>My college projects (LEI & MEI - UMinho)</b>
