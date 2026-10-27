@@ -22,4 +22,4 @@ My contributions in the last year:
 </picture>
 </a>
 
-generated with [a104437ana/sakura-garden](https://github.com/a104437ana/sakura-garden)
+generated with https://sakura-garden.vercel.app/
