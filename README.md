@@ -18,7 +18,7 @@ My website: https://ana.is-a.dev
 </td>
 </table>
 
-My contributions in the last year:
+My contributions in the last year (my garden):
 
 <a href="https://sakura-garden.vercel.app" target="_blank" rel="noopener">
  <picture>
