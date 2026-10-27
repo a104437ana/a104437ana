@@ -9,8 +9,7 @@
 # Ana Sá Oliveira
 
 My website: https://ana.is-a.dev
-  
-</div>
+
 <table>
 <td>
 <b>My college projects (LEI & MEI - UMinho)</b>
@@ -35,3 +34,4 @@ My contributions in the last year (my garden):
 </a>
 
 generated with https://sakura-garden.vercel.app/
+</div>
