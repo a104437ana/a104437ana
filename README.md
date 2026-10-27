@@ -10,7 +10,7 @@ My website: https://ana.is-a.dev
 <td>
 <b>My personal projects</b>
 
-[sakura-garden](https://github.com/a104437ana/sakura-garden); [gitcolors](https://github.com/a104437ana/gitcolors); [repo-stars](https://github.com/a104437ana/repo-stars); [planner](https://github.com/a104437ana/planner); [nomes-portugal](https://github.com/a104437ana/nomes-portugal); [grow-a-flower](https://github.com/a104437ana/grow-a-flower); [the-site-of-answers](https://github.com/a104437ana/the-site-of-answers); [a104437ana.github.io](https://github.com/a104437ana/a104437ana.github.io); [cv](https://github.com/a104437ana/cv); [a104437ana](https://github.com/a104437ana/a104437ana);
+[sakura-garden](https://github.com/a104437ana/sakura-garden); [gitcolors](https://github.com/a104437ana/gitcolors); [repo-stars](https://github.com/a104437ana/repo-stars); [planner](https://github.com/a104437ana/planner); [nomes-portugal](https://github.com/a104437ana/nomes-portugal); [grow-a-flower](https://github.com/a104437ana/grow-a-flower); [the-site-of-answers](https://github.com/a104437ana/the-site-of-answers); [cv](https://github.com/a104437ana/cv); [a104437ana](https://github.com/a104437ana/a104437ana); [a104437ana.github.io](https://github.com/a104437ana/a104437ana.github.io);
 </td>
 </table>
 
