@@ -26,5 +26,4 @@ My contributions in the last year (my garden):
 </picture>
 </a>
 
-generated with https://sakura-garden.vercel.app/
-</div>
+generated with https://sakura-garden.vercel.app/</div>
