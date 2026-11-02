@@ -26,4 +26,6 @@ My contributions in the last year (my garden):
 </picture>
 </a>
 
-generated with https://sakura-garden.vercel.app/</div>
+generated with https://sakura-garden.vercel.app/
+
+"Don't judge each day by the harvest you reap but by the seeds that you plant." (Robert Louis Stevenson)</div>
