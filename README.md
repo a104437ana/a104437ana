@@ -1,8 +1,8 @@
 <picture>
-<img align="left" width="auto" height="100" alt="image" src="https://github.com/user-attachments/assets/a73c2314-b273-4e06-9065-8dd6d55b4671"/>
+<img align="left" width="auto" height="100" alt="image" src="https://github.com/user-attachments/assets/bc1ee2bb-94a8-4065-84dd-370e24b19e9e"/>
 </picture>
 <picture>
-<img align="right" width="auto" height="100" alt="image" src="https://github.com/user-attachments/assets/a73c2314-b273-4e06-9065-8dd6d55b4671"/>
+<img align="right" width="auto" height="100" alt="image" src="https://github.com/user-attachments/assets/bc1ee2bb-94a8-4065-84dd-370e24b19e9e"/>
 </picture>
 <div align="center">
 
