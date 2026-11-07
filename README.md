@@ -1,9 +1,3 @@
-<picture>
-<img align="left" width="auto" height="100" alt="image" src="https://github.com/user-attachments/assets/672f002f-d870-4d88-8014-aac494825c55"/>
-</picture>
-<picture>
-<img align="right" width="auto" height="100" alt="image" src="https://github.com/user-attachments/assets/672f002f-d870-4d88-8014-aac494825c55"/>
-</picture>
 <div align="center">
 
 # Ana Sá Oliveira
@@ -18,14 +12,12 @@ My website: https://ana.is-a.dev
 
 My contributions in the last year (my garden):
 
-<a href="https://sakura-garden.vercel.app" target="_blank" rel="noopener">
- <picture>
-  <source srcset="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=kawaii-dark" media="(prefers-color-scheme: dark)" width="846" height="132" style="height:auto" />
-  <source srcset="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=kawaii" media="(prefers-color-scheme: light)" width="846" height="132" style="height:auto" />
-  <img src="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=kawaii" width="846" height="132" style="height:auto" />
-</picture>
+<a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
+  <picture>
+    <source srcset="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff0090&theme=dark&mode=mono&preset=wave&animate=true&emptyColor=filled" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff0090&theme=light&mode=mono&preset=wave&animate=true&emptyColor=filled" media="(prefers-color-scheme: light)" />
+    <img src="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff0090&theme=light&mode=mono&preset=wave&animate=true&emptyColor=filled" width="846" height="132" style="height:auto" />
+  </picture>
 </a>
 
-generated with https://sakura-garden.vercel.app/
-
-"Don't judge each day by the harvest you reap but by the seeds that you plant." (Robert Louis Stevenson)</div>
+generated with https://gitcolors.vercel.app/</div>
