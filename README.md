@@ -20,9 +20,7 @@ My contributions in the last year:
 
 <a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
   <picture>
-    <source srcset="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff0090&theme=dark&mode=mono&preset=wave&animate=true&emptyColor=filled" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff0090&theme=light&mode=mono&preset=wave&animate=true&emptyColor=filled" media="(prefers-color-scheme: light)" />
-    <img src="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff0090&theme=light&mode=mono&preset=wave&animate=true&emptyColor=filled" width="846" height="132" style="height:auto" />
+    <img src="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff0090&theme=auto&mode=mono&preset=wave&animate=true&emptyColor=filled" width="846" height="132" style="height:auto" />
   </picture>
 </a>
 
