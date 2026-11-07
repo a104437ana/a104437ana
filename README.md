@@ -1,3 +1,9 @@
+<picture>
+<img align="right" height="90" alt="image" src="https://github.com/user-attachments/assets/19e49c5b-e00f-45dd-aa96-623e8a49cc39" />
+</picture>
+<picture>
+<img align="left" height="90" alt="image" src="https://github.com/user-attachments/assets/19e49c5b-e00f-45dd-aa96-623e8a49cc39" />
+</picture>
 <div align="center">
 
 # Ana Sá Oliveira
