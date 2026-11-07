@@ -10,7 +10,7 @@ My website: https://ana.is-a.dev
 
 **My Open Source Contributions:** [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) ([issue](https://github.com/DenverCoder1/readme-typing-svg/issues/481) · [PR](https://github.com/DenverCoder1/readme-typing-svg/pull/482)); [developer-portfolios](https://github.com/emmabostian/developer-portfolios) ([PR](https://github.com/emmabostian/developer-portfolios/pull/2727));
 
-My contributions in the last year (my garden):
+My contributions in the last year:
 
 <a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
   <picture>
