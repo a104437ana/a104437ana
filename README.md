@@ -1,11 +1,3 @@
-<picture>
-<img align="right" height="85" alt="image" src="https://github.com/user-attachments/assets/19e49c5b-e00f-45dd-aa96-623e8a49cc39" />
-</picture>
-<picture>
-<img align="left" height="85" alt="image_rotated" src="https://github.com/user-attachments/assets/b15d6557-a013-4f9a-8c32-b4834d296f95" />
-</picture>
-<div align="center">
-
 # Ana Sá Oliveira
 
 **`My website`**: https://ana.is-a.dev
@@ -24,4 +16,4 @@
   </picture>
 </a>
 
-generated with https://gitcolors.vercel.app/</div>
+generated with https://gitcolors.vercel.app/
