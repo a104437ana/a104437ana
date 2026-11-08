@@ -12,7 +12,7 @@
 
 <a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
   <picture>
-    <img src="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=ff0090&theme=auto&mode=mono&preset=wave&animate=true&emptyColor=filled" width="846" height="132" style="height:auto" />
+    <img src="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=63aaff&theme=auto&mode=mono&preset=none&animate=true&emptyColor=neutral" width="846" height="132" style="height:auto" />
   </picture>
 </a>
 
