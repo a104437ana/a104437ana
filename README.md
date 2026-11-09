@@ -1,3 +1,7 @@
+<picture>
+<img align="right" height="98" alt="image" src="https://github.com/user-attachments/assets/316a3240-cc15-448b-83a7-a360dd833105" />
+</picture>
+
 # Ana Sá Oliveira
 
 **My website**: https://ana.is-a.dev
