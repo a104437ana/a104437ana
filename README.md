@@ -8,14 +8,10 @@
 
 **My Open Source Contributions:** [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) ([issue](https://github.com/DenverCoder1/readme-typing-svg/issues/481) · [PR](https://github.com/DenverCoder1/readme-typing-svg/pull/482)); [developer-portfolios](https://github.com/emmabostian/developer-portfolios) ([PR](https://github.com/emmabostian/developer-portfolios/pull/2727));
 
-**My Contributions** in the last year (my garden):
+**My Contributions** in the last year:
 
-<a href="https://sakura-garden.vercel.app" target="_blank" rel="noopener">
- <picture>
-  <source srcset="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=kawaii-dark" media="(prefers-color-scheme: dark)" width="846" height="132" style="height:auto" />
-  <source srcset="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=kawaii" media="(prefers-color-scheme: light)" width="846" height="132" style="height:auto" />
-  <img src="https://sakura-garden.vercel.app/api/svg?username=a104437ana&theme=kawaii" width="846" height="132" style="height:auto" />
-</picture>
+<a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
+  <picture>
+    <img src="https://gitcolors.vercel.app/api/svg?username=a104437ana&color=63aaff&theme=auto&mode=mono&preset=none&animate=true&emptyColor=neutral" width="846" height="132" style="height:auto" />
+  </picture>
 </a>
-
-generated with https://sakura-garden.vercel.app/
