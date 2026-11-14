@@ -1,4 +1,4 @@
-## Ana Sá Oliveira https://ana.is-a.dev
+I'm **Ana Sá Oliveira** and here is **my website**: https://ana.is-a.dev
 
 | <b>My college projects (LEI & MEI - UMinho)</b> | <b>My personal projects</b> |
 | --- | :---: |
